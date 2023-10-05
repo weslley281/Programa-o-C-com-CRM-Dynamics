@@ -35,7 +35,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.OperadoresDeAtribuiacao
             Console.WriteLine("Conversão de int para string: " + numeroComoString);
 
             // Aguardar a entrada do usuário para encerrar
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

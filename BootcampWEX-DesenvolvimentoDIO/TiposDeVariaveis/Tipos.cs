@@ -35,7 +35,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.TiposDeVariaveis
             Console.WriteLine("Variável de data e hora: " + dataAtual);
 
             // Aguardar a entrada do usuário para encerrar
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
