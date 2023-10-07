@@ -11,5 +11,8 @@ Atribuicao.main();
 //Condicionais.main();
 //Case.main();
 Logicos.main();
+Aritimeticos.main();
+Potencia.main();
+FuncoesTrigonometricas.main();
 
 
