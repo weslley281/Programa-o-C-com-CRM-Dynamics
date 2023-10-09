@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.OperadoresDeAtribuiacao
 {
     internal class Atribuicao
     {
-        public static void main()
+        public static void Main()
         {
             // Operadores de Atribuição
             int a = 10;

@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.Operadores
 {
     internal class FuncoesTrigonometricas
     {
-        public static void main()
+        public static void Main()
         {
             double anguloEmRadiano = Math.PI / 4;
 

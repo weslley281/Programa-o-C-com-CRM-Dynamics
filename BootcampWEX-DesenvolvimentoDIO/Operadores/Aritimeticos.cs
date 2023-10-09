@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.Operadores
 {
     internal class Aritimeticos
     {
-        public static void main()
+        public static void Main()
         {
             // Exemplos de operadores aritméticos
 

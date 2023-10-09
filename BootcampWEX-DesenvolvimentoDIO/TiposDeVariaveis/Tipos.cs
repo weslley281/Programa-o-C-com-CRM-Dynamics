@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.TiposDeVariaveis
 {
     internal class Tipos
     {
-        public static void main()
+        public static void Main()
         {
             // Tipos de variáveis
 

@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.Operadores
 {
     internal class Logicos
     {
-        public static void main()
+        public static void Main()
         {
             // Exemplos de operadores lógicos
 

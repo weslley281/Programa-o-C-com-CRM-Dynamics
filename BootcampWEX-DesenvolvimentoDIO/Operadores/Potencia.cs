@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.Operadores
 {
     internal class Potencia
     {
-        public static void main()
+        public static void Main()
         {
             double baseCalculo = 2.0;
             int expoente = 3;

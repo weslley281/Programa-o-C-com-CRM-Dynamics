@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.OperadoresDeAtribuiacao
 {
     internal class ConversaoDeTitpos
     {
-        public static void main()
+        public static void Main()
         {
             // Conversão implícita
             int numeroInteiro = 42;

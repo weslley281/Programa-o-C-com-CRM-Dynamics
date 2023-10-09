@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.Operadores
 {
     internal class Case
     {
-        public static void main()
+        public static void Main()
         {
             Console.WriteLine("1 - Maçã");
             Console.WriteLine("2 - Banana");

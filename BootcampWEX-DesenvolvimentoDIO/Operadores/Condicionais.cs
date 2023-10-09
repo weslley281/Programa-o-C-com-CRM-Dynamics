@@ -8,7 +8,7 @@ namespace BootcampWEX_DesenvolvimentoDIO.Operadores
 {
     internal class Condicionais
     {
-        public static void main()
+        public static void Main()
         {
             Console.Write("Bem-vindo! Por favor, insira um número inteiro: ");
 
